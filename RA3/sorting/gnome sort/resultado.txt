@@ -1,0 +1,20 @@
+--------------------------VETOR: 1000 ----------------------------
+tempo medio (nanosegundos) para o sort concluir: 1654983
+numero medio de iteracoes: 418011
+numero medio de trocas: 208589
+--------------------------VETOR: 10000 ----------------------------
+tempo medio (nanosegundos) para o sort concluir: 72770683
+numero medio de iteracoes: 41730789
+numero medio de trocas: 20861228
+--------------------------VETOR: 100000 ----------------------------
+tempo medio (nanosegundos) para o sort concluir: 7344487650
+numero medio de iteracoes: 4169295245
+numero medio de trocas: 2084605955
+--------------------------VETOR: 500000 ----------------------------
+tempo medio (nanosegundos) para o sort concluir: 191971815183
+numero medio de iteracoes: 104206509653
+numero medio de trocas: 52103046493
+--------------------------VETOR: 1000000 ----------------------------
+tempo medio (nanosegundos) para o sort concluir: 778047981816
+numero medio de iteracoes: 416953054357
+numero medio de trocas: 208476110512
